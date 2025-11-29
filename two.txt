@@ -1,1 +1,2 @@
-This is saturdays section on git and github
+This is saturdays section on git and github.
+Great day
